@@ -1,6 +1,6 @@
-# Laravel + GraphQL
+# Laravel Example
 
-This is a sample project using Laravel with GraphQL and more.
+This is a sample project using Laravel and more.
 
 ## Commands
 
