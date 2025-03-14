@@ -23,3 +23,21 @@ php artisan migrate
 ```sh
 ​​php artisan serve
 ```
+
+## API Documentation
+
+Provided by [Scribe](https://scribe.knuckles.wtf).
+
+Run this command each time you modify the API endpoints.
+
+```sh
+php artisan scribe:generate
+```
+
+Go to http://localhost:8000/docs to view the docs.
+
+## Web Tinker
+
+Provided by [laravel-web-tinker](https://github.com/spatie/laravel-web-tinker).
+
+Go to http://localhost:8000/tinker to open the REPL.
